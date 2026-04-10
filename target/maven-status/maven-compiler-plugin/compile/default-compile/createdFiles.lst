@@ -1,0 +1,17 @@
+com\filmsociety\movies\exception\BadRequestException.class
+com\filmsociety\movies\controller\MovieController.class
+com\filmsociety\movies\repository\ActorRepository.class
+com\filmsociety\movies\entity\Actor.class
+com\filmsociety\movies\repository\GenreRepository.class
+com\filmsociety\movies\service\MovieService.class
+com\filmsociety\movies\entity\Movie.class
+com\filmsociety\movies\exception\ResourceNotFoundException.class
+com\filmsociety\movies\controller\GenreController.class
+com\filmsociety\movies\controller\MovieController$ActorDTO.class
+com\filmsociety\movies\repository\MovieRepository.class
+com\filmsociety\movies\controller\ActorController.class
+com\filmsociety\movies\entity\Genre.class
+com\filmsociety\movies\service\ActorService.class
+com\filmsociety\movies\service\GenreService.class
+com\filmsociety\movies\exception\GlobalExceptionHandler.class
+com\filmsociety\movies\MoviesApiApplication.class
